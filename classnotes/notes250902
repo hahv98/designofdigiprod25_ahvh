@@ -1,0 +1,96 @@
+Hva er design i kontekst av digitale produkter?
+
+- Skape noe med hensikt
+- Satt på spissen:
+  - Planlegge og forstå.
+  - Ta valg.
+  - Utvikle konsepter og løsninger.
+  - Jobb innen gitte rammer og begrensninger.
+
+- Mer enn form og farge.
+  - Handler like mye om funksjon, opplevelse og problemløsning som det visuelle.
+
+Digitale produkt er overalt
+Godt design legges stort sett ikke merke til.
+Godt design -> gode brukeropplevelser.
+
+User Experience (UX)
+UX =/= User Interface (UI)
+  - Selv om UI påvirker UX
+- Hvordan et produkt oppfører seg og blir brukt i den virkelige verden.
+- Handler om alle interaksjoner og den totale opplevelsen.
+
+Affordances - Hva som er mulig
+  - En mulig handling i relasjonen mellom menneske og objekt.
+    - Definisjonen har forandret seg (dukket først opp på 70-tallet.)
+  - Mennesker har forskjellige egenskaper, erfaringer og mål.
+
+Signifiers - Hvordan og hva vi gjør med objektet
+  - Visuelle, auditive eller taktile signaler som peker ut affordances.
+  - Hjelper bruker å forstå hvor og hvordan de kan handle.
+    - Uderstreket tekst - klikkbar lenke
+    - Tekst på en dør - "Push" or "Pull"
+  - Mål: Gjøre handlinger synlig og forståelig for bruker.
+
+Eksempel i en digital løsning:
+  - Knapp = affordance
+  - Ikon på knappen = Hva handlingen fører til
+
+Design Thinking
+- Phase 1 - Empathize
+  - Fokus på brukere.
+  - Skape forståelse.
+  - Sette egne meninger til side.
+  - Styrer resten av prosessen.
+  - Intervjuer og observasjoner.
+    - Strukturerte intervjuer.
+      - Spesifikke spm i spesifikk rekkefølge.
+      - Ofte ja/nei eller multiple choice.
+      - Best når
+        - Du vet en del om temaet.
+        - Du har begrenset tid og ressurser.
+        - Du trenger lik data fra flere informanter.
+    - Semi-strukturerte intervjuer.
+      - Mer frihet...
+        - Styrer rekkefølge og kan stille oppfølgende spm.
+      - Mer åpne spm.
+      - Best når.
+        - Du har erfaring om tema
+    - Åpne intervjuer.
+      - Ofte ingen forberedte spm.
+      - Intervjuet går den retningen samtalen tar dere. 
+      - Uformelt og fleksibelt - spennende intervjuer!
+      - Best når.
+        - Du er erfaren intervjuer og har mye kunnskap om emnet som omhandles.
+        - Du ønsker beskrivende og dyp data. 
+        - Informantene er komfortable med å dele følelser, tanker og erfaringer.
+    - Alt etter behov... ØV!
+- Phase 2 - Define.
+  - Definer og tydeliggjør fokusområde og problemstilling.
+  - Basert på data om brukere.
+    - Se etter mønster.
+    - Gjentagelser.
+  - Personas
+  - Empathy map
+  - Problemstilling eller designbrief.
+- Phase 3 - Ideate
+  - Generere ideer.
+  - Kvantitet over kvalitet.
+  - Alternative måter å løse problemer på.
+  - Tenke "Outside the box"!
+  - Brainstorming
+  - Worst possible idea.
+- Phase 4 - Prototyping
+  - Gjør ideene håndfaste.
+  - Eksperimentell fase.
+  - Alt fra papir til digitale prototyper.
+  - Brukes til testing.
+  - Low- & high-fidelity prototyping.
+- Phase 5 - Testing.
+  - Evaluer prototypene.
+  - Fungerer det som foventet?
+  - Reaksjoner
+  - Dokumentasjon er viktig!
+  - Geriljatesting
+  - A/B testing.
+
